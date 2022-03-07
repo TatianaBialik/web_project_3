@@ -10,3 +10,5 @@
 @import url(../blocks/intro/__quote.css);
 @import url(../blocks/intro/__quote-author.css);
 @import url(../blocks/intro/__text.css);
+@import url(../blocks/gallery/gallery.css);
+@import url(../blocks/gallery/__item.css);
