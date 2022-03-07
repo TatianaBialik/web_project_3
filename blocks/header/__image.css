@@ -1,4 +1,5 @@
 .header__image {
     width: 80%;
-    margin-top: 64px;
+    margin: 64px 148px 0;
+    margin-left: 148px;
 }
