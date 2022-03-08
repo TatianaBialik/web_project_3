@@ -1,5 +1,5 @@
 @import url(../vendor/normalize.css);
-@import url(../blocks/page.css);
+@import url(../blocks/page/page.css);
 @import url(../blocks/header/__logo.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__image.css);
@@ -12,3 +12,20 @@
 @import url(../blocks/intro/__text.css);
 @import url(../blocks/gallery/gallery.css);
 @import url(../blocks/gallery/__item.css);
+@import url(../blocks/places/places.css);
+@import url(../blocks/card/card.css);
+@import url(../blocks/card/__title.css);
+@import url(../blocks/card/__subtitle.css);
+@import url(../blocks/card/__link.css);
+@import url(../blocks/card/__name.css);
+@import url(../blocks/card/__content.css);
+@import url(../blocks/card/__image.css);
+@import url(../blocks/card/__text.css);
+@import url(../blocks/card/__paragraph.css);
+@import url(../blocks/card/__button.css);
+
+@import url(../blocks/address/address.css);
+@import url(../blocks/address/__overlay/address__overlay.css);
+@import url(../blocks/address/__title/address__title.css);
+@import url(../blocks/address/__text/address__text.css);
+@import url(../blocks/address/__button/address__button.css);
