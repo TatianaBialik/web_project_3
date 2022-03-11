@@ -1,7 +1,7 @@
 .address__button {
     background-color: #0278FE;
     color: #fff;
-    width: 137px;
+    width: max-content;
     grid-area: button;
     border: none;
     transition: background-color 0.5s;
