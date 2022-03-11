@@ -1,0 +1,27 @@
+.card__button {
+  text-decoration: none;
+  background-color: #0278FE;
+  color: #fff;
+  width: max-content;
+  text-align: center;
+  height: max-content;
+  grid-area: button;
+  border: none;
+  display: inline-block;
+  transition: background-color 0.5s;
+  border-radius: 4px;
+  padding: 13px 20px;
+  cursor: pointer;
+}
+
+.card__button:hover {
+    background-color: #0063D2;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .card__button {
+    margin-left: 16px;
+    margin-right: 16px;
+    width: 100%;
+  }
+}
