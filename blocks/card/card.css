@@ -1,11 +1,25 @@
 .card {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: 1fr 460px auto;
-    grid-template-areas: 
+    grid-template-rows: auto;
+    grid-template-areas:
     "title subtitle"
     "image text"
     "button text";
     column-gap: 40px;
     row-gap: 48px;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .card {
+    grid-template-rows: auto 340px auto;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .card {
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+  }
 }
