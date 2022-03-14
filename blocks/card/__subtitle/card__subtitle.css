@@ -1,7 +1,7 @@
 .card__subtitle {
-    grid-area: subtitle;
-    align-self: flex-end;
-    margin: 0;
+  grid-area: subtitle;
+  align-self: flex-end;
+  margin: 0;
 }
 
 @media screen and (max-width: 767px) {

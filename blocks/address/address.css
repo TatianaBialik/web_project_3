@@ -1,15 +1,14 @@
 .address {
-    background: url(../../images/visit_us_bg.jpg);
-    background-size: cover;
-    position: relative;
-    /* width: 1184px; */
-    height: 740px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    row-gap: 32px;
-    text-align: center;
+  background: url(../../images/visit_us_bg.jpg);
+  background-size: cover;
+  position: relative;
+  height: 740px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  row-gap: 32px;
+  text-align: center;
 }
 
 .address::before {

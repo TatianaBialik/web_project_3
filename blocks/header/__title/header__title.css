@@ -1,8 +1,8 @@
 .header__title {
-    font-weight: 900;
-    font-size: 96px;
-    margin: 90px auto 0;
-    max-width: 65%;
+  font-weight: 900;
+  font-size: 96px;
+  margin: 90px auto 0;
+  max-width: 65%;
 }
 
 @media screen and (min-width: 768px) and (max-width: 1279px){
