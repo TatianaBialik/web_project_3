@@ -1,7 +1,7 @@
 .card {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: auto;
+    grid-template-rows: auto 460px auto;
     grid-template-areas:
     "title subtitle"
     "image text"
