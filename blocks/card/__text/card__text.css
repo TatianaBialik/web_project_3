@@ -9,7 +9,7 @@
 
 @media screen and (max-width: 767px) {
   .card__text {
-    padding-left: 16px;
+    margin: 0 auto;
     font-size: 16px;
     max-width: 85%;
   }

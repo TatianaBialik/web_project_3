@@ -1,6 +1,6 @@
 .card__name {
   font-size: 18px;
   line-height: 1.2;
-  margin-top: 8px;
+  margin: 8px 0 0;
   display: block;
 }

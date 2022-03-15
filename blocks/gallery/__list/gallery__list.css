@@ -18,5 +18,6 @@
   .gallery__list {
     grid-template-columns: 100%;
     grid-template-rows: repeat(8,1fr);
+    gap: 12px;
   }
 }

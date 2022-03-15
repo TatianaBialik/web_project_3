@@ -1,20 +1,20 @@
-.header__subtitle {
+.heading__subtitle {
   margin: 32px auto 0px;
   font-size: 30px;
   max-width: 60%;
-  line-height: 1.5;
+  line-height: 1.2;
 }
 
 @media screen and (min-width: 768px) and (max-width: 1279px) {
-  .header__subtitle {
+  .heading__subtitle {
     max-width: 95%;
   }
 }
 
 @media screen and (max-width: 767px) {
-  .header__subtitle {
+  .heading__subtitle {
     font-size: 16px;
-    max-width: 100%;
+    max-width: 95%;
     margin-top: 16px;
   }
 }

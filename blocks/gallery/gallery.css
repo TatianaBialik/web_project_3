@@ -3,6 +3,12 @@
   margin: 0 auto;
 }
 
+@media screen and (min-width: 767px) and (max-width: 1279px) {
+  .gallery {
+    padding: 90px 24px 0;
+  }
+}
+
 @media screen and (max-width: 767px) {
   .gallery {
     padding: 90px 16px 0;
