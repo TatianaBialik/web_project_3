@@ -13,6 +13,7 @@
 
 @media screen and (max-width: 767px) {
   .intro__quote {
-    max-width: 88%;
+    max-width: 95%;
+    line-height: 1.25;
   }
 }
