@@ -26,11 +26,11 @@
   background-color: rgb(42,44,47,0.8);
 }
 
-@media screen and (max-width: 1279px) {
+/* @media screen and (max-width: 1279px) {
   .address {
     width: 100%;
   }
-}
+} */
 
 @media screen and (max-width: 767px) {
   .address {
